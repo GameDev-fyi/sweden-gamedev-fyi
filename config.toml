@@ -1,0 +1,14 @@
+baseURL = "https://SOMETHING.gamedev.fyi/"
+languageCode = "en-us"
+title = "SOMETHING GameDev FYI"
+theme = "gamedev-fyi-theme"
+googleAnalytics = "UA-60001962-9"
+
+
+[Params]
+  description = "A resource for all game development related things in SOMETHING."
+  twitter = "https://twitter.com/GameDevFYI"
+  email = "admin@gamedev.fyi"
+  keywords = "Game, GameDev, SOMETHING"
+  dateFormat = "January 2, 2006"
+  author = "Goose Ninja"
