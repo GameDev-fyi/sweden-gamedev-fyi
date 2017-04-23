@@ -4,4 +4,4 @@ menu: "main"
 weight: 30
 ---
 
-Portfolios / Blogs / Websites of individual developers based in SOMETHING.
+Portfolios / Blogs / Websites of individual developers based in Sweden.

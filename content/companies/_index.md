@@ -4,4 +4,4 @@ menu: "main"
 weight: 20
 ---
 
-Companies based in SOMETHING.
+Companies based in Sweden.
